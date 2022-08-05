@@ -1,0 +1,13 @@
+.idea
+*.iml
+env/
+build/
+dist/
+.eggs/
+.workon
+.epio-app
+*.pyc
+.tox
+*.egg-info
+*.swp
+.vscode/

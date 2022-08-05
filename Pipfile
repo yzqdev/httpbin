@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+
+[packages]
+flask = "*"
+six = "*"
+pyyaml = "*"
+gunicorn = "*"
+decorator = "*"
+brotlipy = "*"
+werkzeug = "*"
+flasgger = "*"
+gevent = "*"
+waitress = "*"
+
+[dev-packages]
+rope = "*"
